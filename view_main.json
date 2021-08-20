@@ -1,0 +1,114 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "banner": [
+            {
+                "id": 1,
+                "pic": "https://files.appcute.im/notice/b/e/0/b/be0bd029f447d9cf98b54033aed998b520210809174607.jpg",
+                "type": "web,app"
+            },
+            {
+                "id": 2,
+                "pic": "https://files.appcute.im/notice/d/0/0/5/d0056fc6234e320afbe780d22a41067d20210519181111.jpg",
+                "type": "web,app"
+            },
+            {
+                "id": 3,
+                "pic": "https://files.appcute.im/notice/3/4/0/7/34077f5178e97024d8d1f1922b1bedbc20210608140424.jpg",
+                "type": "web,app"
+            },
+            {
+                "id": 4,
+                "pic": "https://files.appcute.im/notice/b/9/7/7/b9772c9da92a50b51fc102ec9ff4acc920210609103231.jpg",
+                "type": "web,app"
+            },
+            {
+                "id": 5,
+                "pic": "https://files.appcute.im/notice/8/6/c/4/86c45d849a4dd7f459a53bd28120ef2720210810101854.jpg",
+                "type": "web,app"
+            }
+        ],
+        "sort": [
+            {
+                "id": 1,
+                "name": "cat,dog",
+                "pic": "http://xxxx.jpg"
+            }
+        ],
+        "kind": [
+            {
+                "id": 72,
+                "type": 1,
+                "name": "布偶猫",
+                "pic": "https://files.appcute.im/cat/a/3/e/9/a3e9b88af1fe3abc18b8c5be7aa203b5.jpg!l",
+                "url": "http://api.appcute.im/cat/72"
+              },
+              {
+                "id": 6,
+                "type": 2,
+                "name": "金毛",
+                "pic": "https://files.appcute.im/cat/dog_6.jpg!l",
+                "url": "http://api.appcute.im/cat/6"
+              },
+              {
+                "id": 200,
+                "type": 1,
+                "name": "英短蓝白",
+                "pic": "https://files.appcute.im/cat/0/0/7/d/007de21d5ba94b965f2e3b0dc2f6f504.jpg!l",
+                "url": "http://api.appcute.im/cat/200"
+              },
+              {
+                "id": 199,
+                "type": 1,
+                "name": "英短蓝猫",
+                "pic": "https://files.appcute.im/cat/c/5/6/d/c56d56cadc4e8f47435330cb49f0d3cd.jpg!l",
+                "url": "http://api.appcute.im/cat/199"
+              },
+              {
+                "id": 49,
+                "type": 2,
+                "name": "柴犬",
+                "pic": "https://files.appcute.im/cat/d/c/b/8/dcb8dab4ef4fe8e87f44e76de285ec88.jpg!l",
+                "url": "http://api.appcute.im/cat/49"
+              },
+              {
+                "id": 36,
+                "type": 2,
+                "name": "边境牧羊犬",
+                "pic": "https://files.appcute.im/cat/dog_36.jpg!l",
+                "url": "http://api.appcute.im/cat/36"
+              },
+              {
+                "id": 34,
+                "type": 2,
+                "name": "柯基",
+                "pic": "https://files.appcute.im/cat/dog_34.jpg!l",
+                "url": "http://api.appcute.im/cat/34"
+              },
+              {
+                "id": 67,
+                "type": 2,
+                "name": "阿拉斯加",
+                "pic": "https://files.appcute.im/cat/8/7/a/c/87ac357ee049dd6d117627b2b8985cfe20210626112734.jpg!l",
+                "url": "http://api.appcute.im/cat/67"
+              }
+        ],
+        "recommend": {
+            "title": "推荐，特价",
+            "icon": "xxxx.jpg",
+            "data": [
+                {
+                    "name": "英短",
+                    "price": 1999,
+                    "discount": 1299,
+                    "pic": "http://xxxx.jpg",
+                    "addr": "北京 朝阳",
+                    "age": "3月",
+                    "sex": "1,2",
+                    "id": 12323
+                }
+            ]
+        }
+    }
+}
