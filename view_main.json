@@ -97,7 +97,7 @@
         "recommend": {
             "title": "推荐，特价",
             "icon": "xxxx.jpg",
-            "data": [
+            "recommend_data": [
                 {
                     "name": "英短",
                     "price": 1999,
